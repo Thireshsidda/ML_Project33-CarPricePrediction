@@ -31,7 +31,7 @@ Encodes categorical features (e.g., Fuel Type, Seller Type) using one-hot encodi
 
 Identifies important features using feature importance analysis with ExtraTreesRegressor (optional).
 
-###nModel Training and Evaluation:
+### Model Training and Evaluation:
 
 Splits the data into training and testing sets.
 
